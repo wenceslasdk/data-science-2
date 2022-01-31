@@ -15,3 +15,6 @@ Practicals/05_neural_networks/face_recognition/faces2.jpg
 Practicals/05_neural_networks/face_recognition/faces3.jpg
 Practicals/05_neural_networks/face_recognition/faces4.JPG
 Practicals/03_ml_basics/woe_functions.py
+Practicals/04_decision_trees/marginal_dependence.py
+*/.ipynb_checkpoints/*
+*__pycache__*
