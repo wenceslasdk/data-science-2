@@ -1,0 +1,10 @@
+{
+    "fantasy": {
+        "Sapkowski": "Witcher",
+        "Tolkien": "Lord of the rings"
+    },
+    "scifi": {
+        "Asimov": "Nadace",
+        "Orwell": "1984"
+    }
+}
