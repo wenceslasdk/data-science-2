@@ -6,3 +6,5 @@ Practicals/04_decision_trees/marginal_dependence.py
 *__pycache__*
 Practicals/05_neural_networks/run_with_loss.py
 !Practicals/Data/placeholder.txt
+Practicals/05_neural_networks/logs/
+Practicals/05_neural_networks/czech_pdt.zip
