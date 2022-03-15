@@ -1,6 +1,5 @@
 .idea/
 Practicals/Data/*
-Practicals/03_ml_basics/woe_functions.py
 Practicals/04_decision_trees/marginal_dependence.py
 *.ipynb_checkpoints*
 *__pycache__*
