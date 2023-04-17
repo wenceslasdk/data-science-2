@@ -12,19 +12,19 @@ import argparse
 
 # Functions for 3D object augmentation
 def augment(image, labels):
-    # odstraneni posledni dimenze
+    # remove last dimension
     image = tf.squeeze(image)
 
-    # transpozice
+    # transpose
     image = tf.transpose(image, perm=[1, 2, 0])
 
-    # prevraceni objektu
+    # mirror reflection
     if tf.random.uniform([]) >= 0.5:
         image = tf.image.flip_left_right(image)
     if tf.random.uniform([]) >= 0.5:
         image = tf.image.flip_up_down(image)
  
-    # otoceni objektu o 90, 180, 270 stupnu
+    # rotate 90, 180, 270 degrees
     p = tf.random.uniform([])
     if p < 0.25:
         image = tf.image.rot90(image, k=1)
@@ -33,7 +33,7 @@ def augment(image, labels):
     elif p < 0.75:
         image = tf.image.rot90(image, k=3)
 
-    # vraceni posledni dimenze a transpozice
+    # give last dimension back and traspose
     image = tf.transpose(image, perm=[2, 0, 1])
     image = tf.expand_dims(image, axis=3)
 
