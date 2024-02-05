@@ -4,6 +4,30 @@ Practicals: Karel Kozmík, Ondřej Týbl
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 
+## Practicals plan
+
+| Date | Topic | Lecturer |
+| -------- | ------- | ------- |
+| 20.2 | Intro + Git    | Karel
+| 27.2. | Python Intro | Karel
+| 5.3. | Data Science Basics I | Karel
+| 12.3. | Data Science Basics II | Karel
+| 19.3. | Decision Trees I | Karel
+| 26.3. | Decision Trees II | Karel
+| 2.4. | Decision Trees III | Karel
+| 9.4. | Neural Networks I | Ondřej
+| 16.4. | Neural Networks II | Ondřej
+| 23.4. | Neural Networks III | Ondřej
+| 30.4. | Neural Networks IV | Ondřej
+| 7.5. | Hyperparameters Optimization | Ondřej 
+| 14.5. | University Holiday - no practicals | Ondřej
+| 21.5. | Clustering | Ondřej
+
+To receive the course credit, students must successfully work out two home assignments, 
+one will be focused on decision trees and the other one on neural networks. 
+There are only two assignments, but they will be complex and require considerable amount of work. 
+Deatils will be published later in the semester.
+
 ## How to set-up your python environment
 
 The following instructions will guide you to set-up everything needed to run the course code. Long story short, we use virtual environment managed by poetry running on python3.10 to install all dependencies from the lock file provided.
