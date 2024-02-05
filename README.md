@@ -28,7 +28,7 @@ C:\Users\tyblondr\data-science-2
 ```sh
 where python
 ```
-    in command line on windows, or
+in command line on windows, or
 ```sh
 which python
 ```
