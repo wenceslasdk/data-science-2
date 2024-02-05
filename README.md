@@ -20,7 +20,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 23.4. | Neural Networks III | Ondřej
 | 30.4. | Neural Networks IV | Ondřej
 | 7.5. | Hyperparameters Optimization | Ondřej 
-| 14.5. | University Holiday - no practicals | Ondřej
+| 14.5. | University Holiday | no practicals
 | 21.5. | Clustering | Ondřej
 
 To receive the course credit, students must successfully work out two home assignments, 
