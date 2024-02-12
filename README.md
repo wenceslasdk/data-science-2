@@ -48,15 +48,14 @@ C:\Users\tyblondr\data-science-2
 ### 2) Install python
 
 - specific python version 3.10 is needed, so follow even if you have already some other version
-- to check what python version do you have on your computer (if any) type
+- to check what python version do you have on your computer (if any) type in command line on windows:
 ```sh
 where python
 ```
-in command line on windows, or
+or in terminal on linux/mac:
 ```sh
 which python
 ```
-in terminal on linux/mac.
 
 > Note: running `python --version` might give you just one of the versions if you have already more of them
 
@@ -85,15 +84,14 @@ C:\Users\tyblondr\AppData\Local\Programs\Python\Python310\python -m venv .venv
 
 ### 4) Create potry project
 
-- activate the virtual environment by typing
+- activate the virtual environment by typing in command line on windows:
 ```sh
 .venv\Scripts\activate.bat
 ```
-in command line on windows, or
+or in terminal on linux/mac:
 ```sh
 source .venv\bin\activate
 ```
-in terminal on linux/mac.
 - install poetry by typing
 ```sh
 pip install poetry
@@ -111,11 +109,11 @@ poetry install --no-root
 ```sh
 cd C:\Users\tyblondr\data-science-2
 ```
-- activate the virtual environment by typing
+- activate the virtual environment by typing in command line on windows
 ```sh
 .venv\Scripts\activate.bat
 ```
-in command line on windows, or
+or in terminal on linux/mac:
 ```sh
 source .venv\bin\activate
 ```
