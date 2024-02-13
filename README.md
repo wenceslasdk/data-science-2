@@ -47,6 +47,7 @@ C:\Users\tyblondr\data-science-2
 
 ### 2) Install python
 
+- if you are at any of the computers in the class you skip this step, path to the directory where python.exe is located (to be used below) is 'C:\Program Files\Python310'
 - specific python version 3.10 is needed, so follow even if you have already some other version
 - to check what python version do you have on your computer (if any) type in command line on windows:
 ```sh
@@ -122,6 +123,7 @@ in terminal on linux/mac.
 ```sh
 jupyter lab
 ```
+- jupyter lab should be automatically opened, if you wait too long, just type 'https://localhost:8888' in your browser
 - congratulations you have set-up project: its home repository is called data-science-2, its virtual environment is called .venv and it is located in a subdirectory (i.e. data-science-2/.venv)
 
    [repository page]: <https://github.com/wenceslasdk/data-science-2>
