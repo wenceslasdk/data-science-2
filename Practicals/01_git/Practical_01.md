@@ -15,6 +15,7 @@
    - Add account into Sourcetree 
      - Tools -> Options -> Authentication -> Add
      - Select Github, click “Refresh OAuth Token” -> log in -> Authorize
+	 - I usually use Credentials Manager
 4. Creating a fork of the repository
    - https://docs.github.com/en/get-started/quickstart/fork-a-repo
    - Add repository to Sourcetree
@@ -31,8 +32,8 @@
 1. Update changes from the upstream
    - Teacher to fill in the lines below, commit and push the changes
 
-         Number of students present: 35
-         Weather outside: dark, cannot see
+         Number of students present: 
+         Weather outside: 
    
    - Students pull the changes
    - Merge into your branch
@@ -43,15 +44,9 @@
          Year of study:
          Number of lectures today:
 
-# Prerequisites for the following practicals 
+# Other tools
 
-In the remaining time or as homework until the next practical, download and install:
+Useful (but not mandatory and not covered) tools for development - help with Git integration, virtual environment creation etc.
+
 - PyCharm
-  - https://www.jetbrains.com/pycharm/
-  - IDE (Integrated Development Environment) for Python
-- Anaconda
-  - https://www.anaconda.com/
-  - This will allow us to use Jupyter notebooks
-- install nbextentions
-  - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
-  - this adds table of contents to Jupyter notebooks
+- VSCode
