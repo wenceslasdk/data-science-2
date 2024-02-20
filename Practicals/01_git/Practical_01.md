@@ -32,8 +32,8 @@
 1. Update changes from the upstream
    - Teacher to fill in the lines below, commit and push the changes
 
-         Number of students present: 
-         Weather outside: 
+         Number of students present: 30
+         Weather outside: cannot see
    
    - Students pull the changes
    - Merge into your branch
