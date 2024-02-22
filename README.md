@@ -161,4 +161,4 @@ jupyter lab
    [repository page]: <https://github.com/wenceslasdk/data-science-2>
    [python for windows]: <https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe>
    [python for mac]: <https://www.python.org/ftp/python/3.10.9/python-3.10.9-macos11.pkg>
-  [conda] : <https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh>
+   [conda]: <https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh>
