@@ -38,7 +38,7 @@ The following instructions will guide you to set-up everything needed to run the
 - clone the new directory into your chosen destination, e.g. I opened command line/terminal and typed (the first line contains path to the directory where to place the new repository and 'ondratybl' is my GitHub name)
 ```sh
 cd C:\Users\tyblondr
-git clone https://github.com/ondratybl/data-science-2.git
+git clone https://github.com/wenceslasdk/data-science-2.git
 ```
 - in my example the course repository would be
 ```sh
@@ -55,7 +55,7 @@ where python
 ```
 or in terminal on linux/mac:
 ```sh
-which python
+which python3
 ```
 
 > Note: running `python --version` might give you just one of the versions if you have already more of them
@@ -91,7 +91,7 @@ C:\Users\tyblondr\AppData\Local\Programs\Python\Python310\python -m venv .venv
 ```
 or in terminal on linux/mac:
 ```sh
-source .venv\bin\activate
+source .venv/bin/activate
 ```
 - install poetry by typing
 ```sh
@@ -116,7 +116,7 @@ cd C:\Users\tyblondr\data-science-2
 ```
 or in terminal on linux/mac:
 ```sh
-source .venv\bin\activate
+source .venv/bin/activate
 ```
 in terminal on linux/mac.
 - open jupyter lab by
@@ -124,6 +124,7 @@ in terminal on linux/mac.
 jupyter lab
 ```
 - jupyter lab should be automatically opened, if you wait too long, just type 'https://localhost:8888' in your browser
+- if jupyter lab command cannot be found, just (after you have activated the virtual environment) run 'pip install jupyterlab'
 - congratulations you have set-up project: its home repository is called data-science-2, its virtual environment is called .venv and it is located in a subdirectory (i.e. data-science-2/.venv)
 
    [repository page]: <https://github.com/wenceslasdk/data-science-2>
