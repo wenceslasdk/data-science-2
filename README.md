@@ -32,6 +32,8 @@ Deatils will be published later in the semester.
 
 The following instructions will guide you to set-up everything needed to run the course code. Long story short, we use virtual environment managed by poetry running on python3.10 to install all dependencies from the lock file provided.
 
+For Mac users with M1, M2 or M3 chip: scroll down for separate instructions.
+
 ### 1) Get the course repository
 
 - fork the repository e.g. by clicking 'Fork' on the repository page [repository page], use the default 'data-science-2' name for your version of the repository
@@ -127,6 +129,36 @@ jupyter lab
 - if jupyter lab command cannot be found, just (after you have activated the virtual environment) run 'pip install jupyterlab'
 - congratulations you have set-up project: its home repository is called data-science-2, its virtual environment is called .venv and it is located in a subdirectory (i.e. data-science-2/.venv)
 
+## Mac users with M1, M2 or M3 chip
+
+- get the course repository as in 1) above
+- download [conda]
+- install and activate in terminal
+```sh
+chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
+sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
+source ~/miniforge3/bin/activate
+```
+- create and activate virtual environment
+```sh
+conda create -n .venv python==3.10.9
+conda activate .venv
+```
+- install packages (the package tensorflow-deps is the reason we use conda environment as it cannot be downloaded elsewhere)
+```sh
+conda install -c apple tensorflow-deps==2.8.0
+pip install tensorflow-macos==2.9.0
+pip install protobuf==3.19.6 chaid==5.4.1 numpy==1.26.3 pandas==2.2.0 jupyterlab==4.0.11 tqdm==4.66.1 pathlib==1.0.1 scikit-learn==1.4.0 matplotlib==3.8.2 seaborn==0.13.1 datetime==5.4 xgboost==2.0.3 pydot==1.4.2 graphviz==0.16.0 mtcnn==0.1.1 pillow==10.2.0 tensorflow-datasets==4.8.3 scipy==1.12.0 hyperopt==0.2.7 keras-tuner==1.4.6 ipywidgets==8.1.1  pyarrow==15.0.0 shap==0.44.1
+```
+- whenever you want to start working you need to activate the environment and open jupyter lab as follows
+```sh
+source ~/miniforge3/bin/activate
+conda activate .venv
+jupyter lab
+```
+
+
    [repository page]: <https://github.com/wenceslasdk/data-science-2>
    [python for windows]: <https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe>
    [python for mac]: <https://www.python.org/ftp/python/3.10.9/python-3.10.9-macos11.pkg>
+  [conda] : <https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh>
