@@ -131,7 +131,7 @@ jupyter lab
 
 ## Mac users with M1, M2 or M3 chip
 
-- follow 1) and 2) above
+- follow 1) above
 - download [conda]
 - install and activate in terminal
 ```sh
