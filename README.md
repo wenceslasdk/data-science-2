@@ -26,7 +26,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
 There are only two assignments, but they will be complex and require considerable amount of work. 
-Deatils will be published later in the semester.
+Details will be published later in the semester.
 
 ## How to set-up your python environment
 
