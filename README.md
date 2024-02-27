@@ -64,7 +64,7 @@ which python3
 
 - install python 3.10.9 by downloading [python for windows], [python for mac] or by using your package manager on linux and make sure that you select both
 
-> Note: you may be asked during the installation if you want to install luncher for all users and if you want to add python.exe to PATH. We recommend doing so but it is not necessary for the steps below.
+> Note: you may be asked during the installation if you want to install launcher for all users and if you want to add python.exe to PATH. It is necessary for the steps below to tick 'yes'.
 
 - check the path of your python installation as above (either 'where' or 'which' commands), you will get a list of paths and the correct one is the one containing python310, i.e. in my case the python.exe file is stored in
 
