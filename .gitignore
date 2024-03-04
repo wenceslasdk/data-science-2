@@ -2,6 +2,7 @@
 .venv/*
 Practicals/Data/*
 !Practicals/Data/placeholder.txt
+!Practicals/Data/data_devsample_columns_description.csv
 *.ipynb_checkpoints*
 *__pycache__*
 Practicals/05_neural_networks/run_with_loss.py
