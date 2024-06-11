@@ -14,3 +14,5 @@ decision_trees
 
 Cross-entropy
 - detailne vysvetlit
+
+- zápočet nutný pro zkoušku do SIS
