@@ -23,7 +23,12 @@ Prvni cviceni
 - zbytek vytvoreni venv
 - projit podrobne navod na Win i Mac
 
+Readme:
+- pripravit plan prednasky i cviceni
+- prednaska: uvod, 4x trees, 7x NN, 1x guest inside NN block 
+
+  
 Ondra:
 - Temsorflow -> PyTorch
 - co nejdriv upravit pyproject.toml
-  
+- Clustering -> Neural Networks 5 (train your LLM)
