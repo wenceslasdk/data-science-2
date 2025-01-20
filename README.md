@@ -1,5 +1,5 @@
 # Data Science 2 – NMFP436
-Lectures: Václav Kozmík, Marek Teller
+Lectures: Václav Kozmík, Ondřej Týbl
 Practicals: Karel Kozmík, Ondřej Týbl
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
