@@ -70,4 +70,4 @@ poetry install --no-root
 
 **_Note for Conda Users:_** If you are using conda on your system, it will probably happen that your PyCharm terminal will be always opened with both base and the project virtual env being activated. This should not be a problem but we advice to    double-check that 'which python' points to the python within the project and not the one in your conda installation.
 
-TODO: poetry.lock should not be in the repo; 
+TODO: 1) aby to fungovalo bez warnings, tak poetry.lock by vůbec neměl bejt v tom github repo protože ten lock by se měl pak vytvářet ideálně až lokálně, protože je hodně system-specific 2) můžeš to pak vyzkoušet i na win? nemělo by to fungovat tipuju protože jsem neřešil ty system-specific packages v pyproject.toml, takže asi bude potřeba něco z toho file vyhodit, klidně můžem probrat spolu 3) mohl bys prosím projít svoje cvika, že ten kód funguje? neprocházel jsem to celé
