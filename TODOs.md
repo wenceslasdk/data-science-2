@@ -36,4 +36,5 @@ Ondra:
 Cross-entropy 
 - detailne vysvetlit -> pridat do prednasky
 
-xattr neni pro Windows
+Pyproject.toml
+- pridat knihovny potrebne pro NN cast
