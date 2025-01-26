@@ -12,6 +12,7 @@ decision_trees
 - reseni parametru (smazat TODO u maxdepth)
 - reseni accuracy groupby yearmon
 - vysvetleni ccp_alpha v pruning
+- RandomForestManually posledni parametr ma byt randomstate
 
 
 SIS

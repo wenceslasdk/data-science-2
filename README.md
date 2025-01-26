@@ -112,8 +112,14 @@ poetry install --no-root
 
 **_Note for Conda Users:_** If you are using conda on your system, it will probably happen that your PyCharm terminal will be always opened with both base and the project virtual env being activated. This should not be a problem but we advice to    double-check that 'which python' points to the python within the project and not the one in your conda installation.
 
+### 5) Run Jupyter
+- You can run Jupyter directly inside PyCharm
+- Alternatively you can run Jupyter Lab by typing this into the terminal:
+```sh
+jupyter lab
+```
 
-### 5. Keeping the fork updated
+### Keeping the fork updated
   - https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
   - web UI “Fetch and Merge”
   - other option (“Configure a remote for a fork” using “Terminal” (git remote add upstream https://github.com/wenceslasdk/data-science-2.git), pull from upstream)
