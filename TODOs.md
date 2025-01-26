@@ -5,7 +5,7 @@ Karel:
 cviceni DS basics
 - stability grafy - nazev skupiny misto cisla
 - logistic regression for cyklus nejaky print nebo progress bar
-- definice ROC a AUC
+- definice ROC a AUC (kouknout na prednasky, kdyztak pridat)
 
 decision_trees 
 - reseni train test split - stratifikace by YearMon
@@ -13,9 +13,8 @@ decision_trees
 - reseni accuracy groupby yearmon
 - vysvetleni ccp_alpha v pruning
 
-Cross-entropy 
-- detailne vysvetlit -> pridat do prednasky
 
+SIS
 - zápočet nutný pro zkoušku do SIS
 
 Prvni cviceni
@@ -32,3 +31,8 @@ Ondra:
 - Temsorflow -> PyTorch
 - co nejdriv upravit pyproject.toml
 - Clustering -> Neural Networks 5 (train your LLM)
+
+Cross-entropy 
+- detailne vysvetlit -> pridat do prednasky
+
+xattr neni pro Windows
