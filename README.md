@@ -4,46 +4,47 @@ Practicals: Karel Kozmík, Ondřej Týbl
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
-| Date | Topic | Lecturer |
-| -------- | ------- | ------- |
-| TODO | Intro + Git    | Karel
-| TODO | Python Intro | Karel
-| TODO | Data Science Basics I | Karel
-| TODO | Data Science Basics II | Karel
-| TODO | Decision Trees I | Karel
-| TODO | Decision Trees II | Karel
-| TODO | Decision Trees III | Karel
-| TODO | Neural Networks I | Ondřej
-| TODO | Neural Networks II | Ondřej
-| TODO | Neural Networks III | Ondřej
-| TODO | Neural Networks IV | Ondřej
-| TODO | Hyperparameters Optimization | Ondřej 
-| TODO | University Holiday | no practicals
-| TODO | Clustering | Ondřej
+| Date      | Topic                     | Lecturer |
+|-----------|---------------------------| ------- |
+| 18.2.2025 | Intro + Environment setup | Václav/Karel
+| 25.2.2025 | Decision Trees I          | Václav/Karel
+| 4.3.2025  | Decision Trees II         | Václav/Karel
+| 11.3.2025 | Decision Trees III        | Václav/Karel
+| 18.3.2025 | Decision Trees IV         | Václav/Karel
+| 25.3.2025 | Neural Networks I         | Ondřej
+| 1.4.2025  | Neural Networks II        | Ondřej
+| 8.4.2025  | Neural Networks III       | Ondřej
+| 15.4.2025 | Neural Networks IV        | Ondřej
+| 22.4.2025 | Neural Networks V         | Ondřej
+| 29.4.2025 | Neural Networks VI        | Ondřej
+| 6.5.2025  | Neural Networks VII       | Ondřej 
+| 13.5.2025 | University Holiday        | no lecture
+| 20.5.2025 | Neural Networks VIII      | Ondřej
+
+Note: We plan to dedicate one of the lectures in the Neural Networks block to an invited guest. We will share more details during the semester.
 
 ## Practicals plan
-
-| Date | Topic | Lecturer |
-| -------- | ------- | ------- |
-| TODO | Intro + Git    | Karel
-| TODO | Python Intro | Karel
-| TODO | Data Science Basics I | Karel
-| TODO | Data Science Basics II | Karel
-| TODO | Decision Trees I | Karel
-| TODO | Decision Trees II | Karel
-| TODO | Decision Trees III | Karel
-| TODO | Neural Networks I | Ondřej
-| TODO | Neural Networks II | Ondřej
-| TODO | Neural Networks III | Ondřej
-| TODO | Neural Networks IV | Ondřej
-| TODO | Hyperparameters Optimization | Ondřej 
-| TODO | University Holiday | no practicals
-| TODO | Clustering | Ondřej
+| Date      | Topic                            | Lecturer |
+|-----------|----------------------------------| ------- |
+| 18.2.2025 | Intro                            | Karel
+| 25.2.2025 | Environment setup + Python Intro | Karel
+| 4.3.2025  | Data Science Basics I            | Karel
+| 11.3.2025 | Data Science Basics II           | Karel
+| 18.3.2025 | Decision Trees I                 | Karel
+| 25.3.2025 | Decision Trees II                | Karel
+| 1.4.2025  | Decision Trees III               | Karel
+| 8.4.2025  | Neural Networks I                | Ondřej
+| 15.4.2025 | Neural Networks II               | Ondřej
+| 22.4.2025 | Neural Networks III              | Ondřej
+| 29.4.2025 | Neural Networks IV               | Ondřej
+| 6.5.2025  | Neural Networks V                | Ondřej 
+| 13.5.2025 | University Holiday               | no practicals
+| 20.5.2025 | Hyperparameters Optimization     | Ondřej
 
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
 There are only two assignments, but they will be complex and require considerable amount of work. 
-Details will be published later in the semester.
+Details will be published later in the semester. The course credit is a necessary requirement to take the final exam.
 
 ## We use git to store all course files
 - course repo: https://github.com/wenceslasdk/data-science-2
@@ -61,6 +62,8 @@ The following instructions will guide you to set-up everything needed to run the
 - fill in the form to get the license, you can use your @cuni.cz email or ISIC
 - go to: https://git-scm.com/downloads
 - install git
+
+Note: it is not mandatory to use the Professional version, Community edition is also fine. The Professional version has some nice features like integrated Jupyter or automatic Python download.
 
 ### 2) Set up GitHub
 - Create an account 

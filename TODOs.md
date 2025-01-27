@@ -15,18 +15,6 @@ decision_trees
 - RandomForestManually posledni parametr ma byt randomstate
 
 
-SIS
-- zápočet nutný pro zkoušku do SIS
-
-Prvni cviceni
-- Git jen kratce vysvetlit 20 min
-- zbytek vytvoreni venv
-- projit podrobne navod na Win i Mac
-
-Readme:
-- pripravit plan prednasky i cviceni
-- prednaska: uvod, 4x trees, 7x NN, 1x guest inside NN block 
-
   
 Ondra:
 - Temsorflow -> PyTorch
