@@ -4,29 +4,29 @@ Practicals: Karel Kozmík, Ondřej Týbl
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
-| Date      | Topic                     | Lecturer |
-|-----------|---------------------------| ------- |
-| 18.2.2025 | Intro + Environment setup | Václav/Karel
-| 25.2.2025 | Decision Trees I          | Václav/Karel
-| 4.3.2025  | Decision Trees II         | Václav/Karel
-| 11.3.2025 | Decision Trees III        | Václav/Karel
-| 18.3.2025 | Decision Trees IV         | Václav/Karel
-| 25.3.2025 | Neural Networks I         | Ondřej
-| 1.4.2025  | Neural Networks II        | Ondřej
-| 8.4.2025  | Neural Networks III       | Ondřej
-| 15.4.2025 | Neural Networks IV        | Ondřej
-| 22.4.2025 | Neural Networks V         | Ondřej
-| 29.4.2025 | Neural Networks VI        | Ondřej
-| 6.5.2025  | Neural Networks VII       | Ondřej 
-| 13.5.2025 | University Holiday        | no lecture
-| 20.5.2025 | Neural Networks VIII      | Ondřej
+| Date      | Topic                | Lecturer |
+|-----------|----------------------| ------- |
+| 18.2.2025 | Intro                | Václav/Karel
+| 25.2.2025 | Decision Trees I     | Václav/Karel
+| 4.3.2025  | Decision Trees II    | Václav/Karel
+| 11.3.2025 | Decision Trees III   | Václav/Karel
+| 18.3.2025 | Decision Trees IV    | Václav/Karel
+| 25.3.2025 | Neural Networks I    | Ondřej
+| 1.4.2025  | Neural Networks II   | Ondřej
+| 8.4.2025  | Neural Networks III  | Ondřej
+| 15.4.2025 | Neural Networks IV   | Ondřej
+| 22.4.2025 | Neural Networks V    | Ondřej
+| 29.4.2025 | Neural Networks VI   | Ondřej
+| 6.5.2025  | Neural Networks VII  | Ondřej 
+| 13.5.2025 | University Holiday   | no lecture
+| 20.5.2025 | Neural Networks VIII | Ondřej
 
 Note: We plan to dedicate one of the lectures in the Neural Networks block to an invited guest. We will share more details during the semester.
 
 ## Practicals plan
 | Date      | Topic                            | Lecturer |
 |-----------|----------------------------------| ------- |
-| 18.2.2025 | Intro                            | Karel
+| 18.2.2025 | Intro + Environment setup        | Karel
 | 25.2.2025 | Environment setup + Python Intro | Karel
 | 4.3.2025  | Data Science Basics I            | Karel
 | 11.3.2025 | Data Science Basics II           | Karel
