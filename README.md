@@ -1,6 +1,12 @@
 # Data Science 2 – NMFP436
 Lectures: Václav Kozmík, Ondřej Týbl, Karel Kozmík
+
 Practicals: Karel Kozmík, Ondřej Týbl
+
+Contact:
+- Ondřej Týbl - tybl@karlin.mff.cuni.cz
+- Karel Kozmík - kozmikk@karlin.mff.cuni.cz
+- Václav Kozmík - vkozmik@taran.ai
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
