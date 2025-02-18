@@ -97,7 +97,7 @@ git clone https://github.com/wenceslasdk/data-science-2.git
 - click 'Create' and choose 'Create from Existing Resources' if you are asked 
 
 
-#### 2.3 Download the repository .zip from GitHub
+#### 3.3) Download the repository .zip from GitHub
 - if everything fails, you can always just download the files
 - click on the button <> Code, then Download ZIP
 
