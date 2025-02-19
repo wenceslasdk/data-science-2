@@ -110,6 +110,7 @@ git clone https://github.com/wenceslasdk/data-science-2.git
 
 ### 4) Install dependencies
 - open Terminal in PyCharm (one of the icons in the left-down corner)
+- make sure there is `(.venv)` at the beginning of your command line, denoting you are now in the activated virtual environment, that you created in the previous steps
 - install poetry by typing
 ```sh
 pip install poetry
