@@ -52,6 +52,8 @@ one will be focused on decision trees and the other one on neural networks.
 There are only two assignments, but they will be complex and require considerable amount of work. 
 Details will be published later in the semester. The course credit is a necessary requirement to take the final exam.
 
+For the first assignment we have the following competition: https://www.kaggle.com/t/55b8baf8b4294622a400c7a7c3d15cc7
+
 ## We use git to store all course files
 - course repo: https://github.com/wenceslasdk/data-science-2
 - What is Git and why we use it?
