@@ -19,8 +19,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 18.3.2025 | Decision Trees IV    | Václav/Karel
 | 25.3.2025 | Neural Networks I    | Ondřej
 | 1.4.2025  | Neural Networks II   | Ondřej
-| 8.4.2025  | Neural Networks III  | Ondřej
-| 15.4.2025 | Neural Networks IV   | Ondřej
+| 8.4.2025  | Neural Networks III  | Karel
+| 15.4.2025 | Neural Networks IV   | Ondřej **(in K11)**
 | 22.4.2025 | Neural Networks V    | Ondřej
 | 29.4.2025 | Neural Networks VI   | Ondřej
 | 6.5.2025  | Neural Networks VII  | Ondřej 
@@ -39,13 +39,13 @@ Note: We plan to dedicate one of the lectures in the Neural Networks block to an
 | 18.3.2025 | Decision Trees I                 | Karel
 | 25.3.2025 | Decision Trees II                | Karel
 | 1.4.2025  | Decision Trees III               | Karel
-| 8.4.2025  | Neural Networks I                | Ondřej
-| 15.4.2025 | Neural Networks II               | Ondřej
-| 22.4.2025 | Neural Networks III              | Ondřej
-| 29.4.2025 | Neural Networks IV               | Ondřej
-| 6.5.2025  | Neural Networks V                | Ondřej 
+| 8.4.2025  | Hyperparameters Optimization     | Karel
+| 15.4.2025 | Neural Networks I                | Ondřej
+| 22.4.2025 | Neural Networks II               | Ondřej
+| 29.4.2025 | Neural Networks III              | Ondřej
+| 6.5.2025  | Neural Networks IV               | Ondřej 
 | 13.5.2025 | University Holiday               | no practicals
-| 20.5.2025 | Hyperparameters Optimization     | Ondřej
+| 20.5.2025 | Neural Networks V                | Ondřej
 
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
