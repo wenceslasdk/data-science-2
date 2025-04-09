@@ -17,5 +17,4 @@ Trees_and_forest:
 Hyperparam optimization:
 - add hyperopt to pyproject.toml
 - add more links to documentation
-- add some slides
 - remove tensorflow
