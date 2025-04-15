@@ -19,8 +19,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 18.3.2025 | Decision Trees IV    | Václav/Karel
 | 25.3.2025 | Neural Networks I    | Ondřej
 | 1.4.2025  | Neural Networks II   | Ondřej
-| 8.4.2025  | Neural Networks III  | Ondřej
-| 15.4.2025 | Neural Networks IV   | Ondřej
+| 8.4.2025  | Neural Networks III  | Karel
+| 15.4.2025 | Neural Networks IV   | Ondřej **(in K11)**
 | 22.4.2025 | Neural Networks V    | Ondřej
 | 29.4.2025 | Neural Networks VI   | Ondřej
 | 6.5.2025  | Neural Networks VII  | Ondřej 
@@ -39,18 +39,20 @@ Note: We plan to dedicate one of the lectures in the Neural Networks block to an
 | 18.3.2025 | Decision Trees I                 | Karel
 | 25.3.2025 | Decision Trees II                | Karel
 | 1.4.2025  | Decision Trees III               | Karel
-| 8.4.2025  | Neural Networks I                | Ondřej
-| 15.4.2025 | Neural Networks II               | Ondřej
-| 22.4.2025 | Neural Networks III              | Ondřej
-| 29.4.2025 | Neural Networks IV               | Ondřej
-| 6.5.2025  | Neural Networks V                | Ondřej 
+| 8.4.2025  | Hyperparameters Optimization     | Karel
+| 15.4.2025 | Neural Networks I                | Ondřej
+| 22.4.2025 | Neural Networks II               | Ondřej
+| 29.4.2025 | Neural Networks III              | Ondřej
+| 6.5.2025  | Neural Networks IV               | Ondřej 
 | 13.5.2025 | University Holiday               | no practicals
-| 20.5.2025 | Hyperparameters Optimization     | Ondřej
+| 20.5.2025 | Neural Networks V                | Ondřej
 
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
 There are only two assignments, but they will be complex and require considerable amount of work. 
 Details will be published later in the semester. The course credit is a necessary requirement to take the final exam.
+
+For the first assignment we have the following competition: https://www.kaggle.com/t/55b8baf8b4294622a400c7a7c3d15cc7
 
 ## We use git to store all course files
 - course repo: https://github.com/wenceslasdk/data-science-2
@@ -110,6 +112,7 @@ git clone https://github.com/wenceslasdk/data-science-2.git
 
 ### 4) Install dependencies
 - open Terminal in PyCharm (one of the icons in the left-down corner)
+- make sure there is `(.venv)` at the beginning of your command line, denoting you are now in the activated virtual environment, that you created in the previous steps
 - install poetry by typing
 ```sh
 pip install poetry
