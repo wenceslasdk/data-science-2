@@ -25,7 +25,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 29.4.2025 | Neural Networks VI   | Ondřej
 | 6.5.2025  | Neural Networks VII  | Ondřej 
 | 13.5.2025 | University Holiday   | no lecture
-| 20.5.2025 | Neural Networks VIII | Ondřej
+| 20.5.2025 | Guest Lecture        | [Lukáš Neumann](https://cmp.felk.cvut.cz/~neumann/index.html)
 
 Note: We plan to dedicate one of the lectures in the Neural Networks block to an invited guest. We will share more details during the semester.
 
