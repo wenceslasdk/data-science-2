@@ -16,3 +16,12 @@ Hyperparam optimization:
 - add hyperopt to pyproject.toml
 - add more links to documentation
 - remove tensorflow
+
+HW 1
+- do zadání rozepsat, co má úloha všechno mít
+  - data exploration
+  - predictor definition
+  - variable encoding
+  - hyperparameter selection
+  - model score validation
+  - SHAP value interpretation
