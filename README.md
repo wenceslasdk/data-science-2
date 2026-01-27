@@ -1,58 +1,55 @@
 # Data Science 2 – NMFP436
-Lectures: Václav Kozmík, Ondřej Týbl, Karel Kozmík
+Lectures: Karel Kozmík, Ondřej Týbl
 
 Practicals: Karel Kozmík, Ondřej Týbl
 
 Contact:
 - Ondřej Týbl - tybl@karlin.mff.cuni.cz
 - Karel Kozmík - kozmikk@karlin.mff.cuni.cz
-- Václav Kozmík - vkozmik@taran.ai
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
 | Date      | Topic                | Lecturer |
 |-----------|----------------------| ------- |
-| 18.2.2025 | Intro                | Václav/Karel
-| 25.2.2025 | Decision Trees I     | Václav/Karel
-| 4.3.2025  | Decision Trees II    | Václav/Karel
-| 11.3.2025 | Decision Trees III   | Václav/Karel
-| 18.3.2025 | Decision Trees IV    | Václav/Karel
-| 25.3.2025 | Neural Networks I    | Ondřej
-| 1.4.2025  | Neural Networks II   | Ondřej
-| 8.4.2025  | Neural Networks III  | Karel
-| 15.4.2025 | Neural Networks IV   | Ondřej **(in K11)**
-| 22.4.2025 | Neural Networks V    | Ondřej
-| 29.4.2025 | Neural Networks VI   | Ondřej
-| 6.5.2025  | Neural Networks VII  | Ondřej 
-| 13.5.2025 | University Holiday   | no lecture
-| 20.5.2025 | Guest Lecture        | [Lukáš Neumann](https://cmp.felk.cvut.cz/~neumann/index.html)
-
-Note: We plan to dedicate one of the lectures in the Neural Networks block to an invited guest. We will share more details during the semester.
+| 17.2.2026 | Intro                | Karel
+| 24.2.2026 | Decision Trees I     | Karel
+| 3.3.2026  | Decision Trees II    | Karel
+| 10.3.2026 | Decision Trees III   | Karel
+| 17.3.2026 | Decision Trees IV    | Karel
+| 24.3.2026 | Neural Networks I    | Ondřej
+| 31.3.2026  | Neural Networks II   | Ondřej
+| 7.4.2026  | Neural Networks III  | Ondřej
+| 14.4.2026 | Neural Networks IV   | Ondřej
+| 21.4.2026 | Neural Networks V    | Ondřej
+| 28.4.2026 | Neural Networks VI   | Ondřej
+| 5.5.2026  | Neural Networks VII  | Ondřej 
+| 12.5.2026 | TBA   | TBA
+| 19.5.2026 | Exam        | TBA
 
 ## Practicals plan
 | Date      | Topic                            | Lecturer |
 |-----------|----------------------------------| ------- |
-| 18.2.2025 | Intro + Environment setup        | Karel
-| 25.2.2025 | Environment setup + Python Intro | Karel
-| 4.3.2025  | Data Science Basics I            | Karel
-| 11.3.2025 | Data Science Basics II           | Karel
-| 18.3.2025 | Decision Trees I                 | Karel
-| 25.3.2025 | Decision Trees II                | Karel
-| 1.4.2025  | Decision Trees III               | Karel
-| 8.4.2025  | Hyperparameters Optimization     | Karel
-| 15.4.2025 | Neural Networks I                | Ondřej
-| 22.4.2025 | Neural Networks II               | Ondřej
-| 29.4.2025 | Neural Networks III              | Ondřej
-| 6.5.2025  | Neural Networks IV               | Ondřej 
-| 13.5.2025 | University Holiday               | no practicals
-| 20.5.2025 | Neural Networks V                | Ondřej
+| 17.2.2026 | Intro + Environment setup        | Karel
+| 24.2.2026 | Environment setup + Python Intro | Karel
+| 3.3.2026  | Data Science Basics I            | Karel
+| 10.3.2026 | Data Science Basics II           | Karel
+| 17.3.2026 | Decision Trees I                 | Karel
+| 24.3.2026 | Decision Trees II                | Karel
+| 31.3.2026  | Decision Trees III               | Karel
+| 7.4.2026  | Hyperparameters Optimization     | Karel
+| 14.4.2026 | Neural Networks I                | Ondřej
+| 21.4.2026 | Neural Networks II               | Ondřej
+| 28.4.2026 | Neural Networks III              | Ondřej
+| 5.5.2026  | Neural Networks IV               | Ondřej 
+| 12.5.2026 | Neural Networks V               | Ondřej
+| 19.5.2026 | Exam                | TBA
 
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
 There are only two assignments, but they will be complex and require considerable amount of work. 
 Details will be published later in the semester. The course credit is a necessary requirement to take the final exam.
 
-For the first assignment we have the following competition: https://www.kaggle.com/t/55b8baf8b4294622a400c7a7c3d15cc7
+<!--- For the first assignment we have the following competition: https://www.kaggle.com/t/55b8baf8b4294622a400c7a7c3d15cc7 --->
 
 ## We use git to store all course files
 - course repo: https://github.com/wenceslasdk/data-science-2
