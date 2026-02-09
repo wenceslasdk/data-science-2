@@ -1,9 +1,12 @@
-[tool.poetry]
+[project]
 name = "data-science-2"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
-authors = ["Ondrej Tybl <ondra@tybl.cz>"]
 readme = "README.md"
+authors = [
+    { name = "Ondrej Tybl", email = "ondra@tybl.cz" }
+]
+requires-python = "~3.10"
 
 [tool.poetry.dependencies]
 python = "~3.10"
@@ -24,6 +27,8 @@ torchaudio = "2.5.1"
 datasets = "3.2.0"
 transformers = "4.48.2"
 huggingface-hub = "0.28.1"
+wandb = "^0.24.2"
+hyperopt = "^0.2.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
