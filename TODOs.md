@@ -9,11 +9,17 @@ Trees_and_forest:
 - pridat link na scikit dokumentaci RandomForestRegresson
 - randomForest neni potreba hlavicka s definici parametru, rovnou ve volani tridy je ok
 
+Domluvit guest lecture
 
+Upravit plan semestru pro cviko na GAN
+
+
+
+Ondra:
 
 Pripravit cviceni na GAN
 
-Domluvit guest lecture
+Shared:
 
 Vyresit poetry lock na letosni rok - hyperopt dela problemy
 
