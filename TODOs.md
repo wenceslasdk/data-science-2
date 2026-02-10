@@ -12,7 +12,9 @@ Trees_and_forest:
 
 
 Pripravit cviceni na GAN
+
 Domluvit guest lecture
+
 Vyresit poetry lock na letosni rok - hyperopt dela problemy
 
 HW 1
