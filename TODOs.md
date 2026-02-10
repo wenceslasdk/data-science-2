@@ -11,13 +11,13 @@ Trees_and_forest:
 
 Domluvit guest lecture
 
-Upravit plan semestru pro cviko na GAN
-
+Upravit plan semestru pro cviko na GAN, posunout hyperparam opti za stromy, vyradit neuronky
 
 
 Ondra:
 
-Pripravit cviceni na GAN
+- Pripravit cviceni na GAN
+- Ukazat hyperparam opti pro NN
 
 Shared:
 
