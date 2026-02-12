@@ -30,19 +30,19 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | Date      | Topic                            | Lecturer |
 |-----------|----------------------------------| ------- |
 | 17.2.2026 | Intro + Environment setup        | Karel
-| 24.2.2026 | Environment setup + Python Intro | Karel
-| 3.3.2026  | Data Science Basics I            | Karel
-| 10.3.2026 | Data Science Basics II           | Karel
-| 17.3.2026 | Decision Trees I                 | Karel
-| 24.3.2026 | Decision Trees II                | Karel
-| 31.3.2026  | Decision Trees III               | Karel
-| 7.4.2026  | Hyperparameters Optimization     | Karel
-| 14.4.2026 | Neural Networks I                | Ondřej
-| 21.4.2026 | Neural Networks II               | Ondřej
-| 28.4.2026 | Neural Networks III              | Ondřej
-| 5.5.2026  | Neural Networks IV               | Ondřej 
-| 12.5.2026 | Neural Networks V               | Ondřej
-| 19.5.2026 | Exam                | TBA
+| 24.2.2026 | Data Science Basics I            | Karel
+| 3.3.2026  | Data Science Basics II           | Karel
+| 10.3.2026 | Decision Trees I                 | Karel
+| 17.3.2026 | Decision Trees II                | Karel
+| 24.3.2026 | Decision Trees III               | Karel
+| 31.3.2026 | Hyperparameters Optimization     | Karel
+| 7.4.2026  | Neural Networks I                | Ondřej
+| 14.4.2026 | Neural Networks II               | Ondřej
+| 21.4.2026 | Neural Networks III              | Ondřej
+| 28.4.2026 | Neural Networks IV               | Ondřej 
+| 5.5.2026  | Neural Networks V                | Ondřej
+| 12.5.2026 | Neural Networks VI               | Ondřej
+| 19.5.2026 | Exam                             | TBA
 
 To receive the course credit, students must successfully work out two home assignments, 
 one will be focused on decision trees and the other one on neural networks. 
