@@ -11,7 +11,7 @@ Trees_and_forest:
 
 Domluvit guest lecture
 
-Upravit plan semestru pro cviko na GAN, posunout hyperparam opti za stromy, vyradit neuronky
+upravit hyperparam cviko, vyradit neuronky
 
 
 Ondra:
@@ -19,9 +19,6 @@ Ondra:
 - Pripravit cviceni na GAN
 - Ukazat hyperparam opti pro NN
 
-Shared:
-
-Vyresit poetry lock na letosni rok - hyperopt dela problemy
 
 HW 1
 - do zadání rozepsat, co má úloha všechno mít
