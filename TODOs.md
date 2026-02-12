@@ -9,6 +9,20 @@ Trees_and_forest:
 - pridat link na scikit dokumentaci RandomForestRegresson
 - randomForest neni potreba hlavicka s definici parametru, rovnou ve volani tridy je ok
 
+Domluvit guest lecture
+
+Upravit plan semestru pro cviko na GAN, posunout hyperparam opti za stromy, vyradit neuronky
+
+
+Ondra:
+
+- Pripravit cviceni na GAN
+- Ukazat hyperparam opti pro NN
+
+Shared:
+
+Vyresit poetry lock na letosni rok - hyperopt dela problemy
+
 HW 1
 - do zadání rozepsat, co má úloha všechno mít
   - data exploration
