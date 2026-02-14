@@ -5,9 +5,6 @@ Karel:
 
 Domluvit guest lecture
 
-upravit hyperparam cviko, vyradit neuronky
-
-
 Ondra:
 
 - Pripravit cviceni na GAN
