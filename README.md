@@ -12,8 +12,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | Date      | Topic                | Lecturer |
 |-----------|----------------------| ------- |
 | 17.2.2026 | Intro                | Karel
-| 24.2.2026 | Decision Trees I     | Karel
-| 3.3.2026  | Decision Trees II    | Karel
+| 24.2.2026 | Decision Trees I     | Vaclav
+| 24.2.2026  | Decision Trees II    | Vaclav
 | 10.3.2026 | Decision Trees III   | Karel
 | 17.3.2026 | Decision Trees IV    | Karel
 | 24.3.2026 | Neural Networks I    | Ondřej
@@ -30,8 +30,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | Date      | Topic                            | Lecturer |
 |-----------|----------------------------------| ------- |
 | 17.2.2026 | Intro + Environment setup        | Karel
-| 24.2.2026 | Data Science Basics I            | Karel
-| 3.3.2026  | Data Science Basics II           | Karel
+| 3.3.2026 | Data Science Basics I            | Ondřej
+| 3.3.2026  | Data Science Basics II           | Ondřej
 | 10.3.2026 | Decision Trees I                 | Karel
 | 17.3.2026 | Decision Trees II                | Karel
 | 24.3.2026 | Decision Trees III               | Karel
