@@ -30,8 +30,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | Date      | Topic                            | Lecturer |
 |-----------|----------------------------------| ------- |
 | 17.2.2026 | Intro + Environment setup        | Karel
-| 3.3.2026 | Data Science Basics I            | Ondřej
-| 3.3.2026  | Data Science Basics II           | Ondřej
+| 3.3.2026 | [Data Science Basics I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)            | Ondřej
+| 3.3.2026  | [Data Science Basics II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)           | Ondřej
 | 10.3.2026 | Decision Trees I                 | Karel
 | 17.3.2026 | Decision Trees II                | Karel
 | 24.3.2026 | Decision Trees III               | Karel
