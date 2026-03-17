@@ -19,3 +19,8 @@ HW 1
   - hyperparameter selection
   - model score validation
   - SHAP value interpretation
+
+Next year
+(Karel) 
+- TODO random forest, doplnit nazev promenne do ktere ulozit model do zadani
+- opravit popis u Random Forest sekce (The task is to predict if tomorrow is going to rain) - neni pravda predikujeme teplotu
