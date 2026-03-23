@@ -12,22 +12,22 @@ Contact:
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
-| Date      | Topic                | Lecturer |
-|-----------|----------------------| ------- |
-| 17.2.2026 | Intro                | Karel
-| 24.2.2026 | Decision Trees I     | Vaclav
-| 24.2.2026  | Decision Trees II    | Vaclav
-| 10.3.2026 | Decision Trees III   | Karel
-| 17.3.2026 | Decision Trees IV    | Karel
-| 24.3.2026 | Neural Networks I    | Ondřej
-| ~~31.3.2026~~ 24.3.2026  | Neural Networks II   | Ondřej
-| 7.4.2026  | Neural Networks III  | Ondřej
-| 14.4.2026 | Neural Networks IV   | Ondřej
-| 21.4.2026 | Neural Networks V    | Ondřej
-| 28.4.2026 | Neural Networks VI   | Ondřej
-| 5.5.2026  | Neural Networks VII  | Ondřej 
-| 12.5.2026 | TBA   | TBA
-| 19.5.2026 | Exam        | TBA
+| Date      | Topic               | Lecturer |
+|-----------|---------------------| ------- |
+| 17.2.2026 | Intro               | Karel
+| 24.2.2026 | Decision Trees I    | Vaclav
+| 24.2.2026  | Decision Trees II   | Vaclav
+| 10.3.2026 | Decision Trees III  | Karel
+| 17.3.2026 | Decision Trees IV   | Karel
+| 24.3.2026 | Neural Networks I   | Ondřej
+| ~~31.3.2026~~ 24.3.2026  | Neural Networks II  | Ondřej
+| 7.4.2026  | Neural Networks III | Ondřej
+| 14.4.2026 | Neural Networks IV  | Ondřej
+| 21.4.2026 | Neural Networks V   | Ondřej
+| 28.4.2026 | Neural Networks VI  | Ondřej
+| 5.5.2026  | Neural Networks VII | Ondřej 
+| 12.5.2026 | Guest Lecture       | Marek Židek
+| 19.5.2026 | Exam                | TBA
 
 ## Practicals plan
 | Date      | Topic                            | Lecturer |

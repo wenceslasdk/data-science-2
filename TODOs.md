@@ -3,8 +3,6 @@ This is a list of TODOs for the next years, mostly for internal purposes of the 
 
 Karel:
 
-Domluvit guest lecture
-
 Ondra:
 
 - Pripravit cviceni na GAN
