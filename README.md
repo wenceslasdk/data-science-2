@@ -7,6 +7,9 @@ Contact:
 - Ondřej Týbl - tybl@karlin.mff.cuni.cz
 - Karel Kozmík - kozmikk@karlin.mff.cuni.cz
 
+**Changes: **
+- Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
+
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
 | Date      | Topic                | Lecturer |
@@ -17,7 +20,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 10.3.2026 | Decision Trees III   | Karel
 | 17.3.2026 | Decision Trees IV    | Karel
 | 24.3.2026 | Neural Networks I    | Ondřej
-| 31.3.2026  | Neural Networks II   | Ondřej
+| ~~31.3.2026~~ 24.3.2026  | Neural Networks II   | Ondřej
 | 7.4.2026  | Neural Networks III  | Ondřej
 | 14.4.2026 | Neural Networks IV   | Ondřej
 | 21.4.2026 | Neural Networks V    | Ondřej
@@ -32,9 +35,9 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 17.2.2026 | Intro + Environment setup        | Karel
 | 3.3.2026 | [Data Science Basics I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)            | Ondřej
 | 3.3.2026  | [Data Science Basics II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/ML_basics.ipynb)           | Ondřej
-| 10.3.2026 | Decision Trees I                 | Karel
-| 17.3.2026 | Decision Trees II                | Karel
-| 24.3.2026 | Decision Trees III               | Karel
+| 10.3.2026 | [Decision Trees I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/trees_and_forest.ipynb)                 | Karel
+| 17.3.2026 | [Decision Trees II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/01_ml_basics/trees_and_forest.ipynb)                | Karel
+| ~~24.3.2026~~ 31.3.2026 | Decision Trees III               | Karel
 | 31.3.2026 | Hyperparameters Optimization     | Karel
 | 7.4.2026  | Neural Networks I                | Ondřej
 | 14.4.2026 | Neural Networks II               | Ondřej
