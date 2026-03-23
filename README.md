@@ -7,7 +7,7 @@ Contact:
 - Ondřej Týbl - tybl@karlin.mff.cuni.cz
 - Karel Kozmík - kozmikk@karlin.mff.cuni.cz
 
-**Changes: **
+**Changes:**
 - Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
