@@ -19,8 +19,8 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 24.2.2026  | Decision Trees II   | Vaclav
 | 10.3.2026 | Decision Trees III  | Karel
 | 17.3.2026 | Decision Trees IV   | Karel
-| 24.3.2026 | Neural Networks I   | Ondřej
-| ~~31.3.2026~~ 24.3.2026  | Neural Networks II  | Ondřej
+| 24.3.2026 | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_Perceptron.pdf)   | Ondřej
+| ~~31.3.2026~~ 24.3.2026  | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LossFunctions.pdf)  | Ondřej
 | 7.4.2026  | Neural Networks III | Ondřej
 | 14.4.2026 | Neural Networks IV  | Ondřej
 | 21.4.2026 | Neural Networks V   | Ondřej
