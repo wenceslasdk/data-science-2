@@ -42,3 +42,4 @@ res
 ```
 
 - prozkoumat categorical variables support v XGBoost
+- xgboost plot marginal dependence
