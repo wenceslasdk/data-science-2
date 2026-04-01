@@ -42,4 +42,5 @@ res
 ```
 
 - prozkoumat categorical variables support v XGBoost
-- xgboost plot marginal dependence
+- xgboost plot marginal dependence vsechny variables
+- hyperparam add optuna
