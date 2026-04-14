@@ -22,7 +22,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | 24.3.2026 | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_Perceptron.pdf)   | Ondřej
 | ~~31.3.2026~~ 24.3.2026  | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LossFunctions.pdf)  | Ondřej
 | 7.4.2026  | [Neural Networks III](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_Training.pdf) | Ondřej
-| 14.4.2026 | Neural Networks IV  | Ondřej
+| 14.4.2026 | [Neural Networks IV](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_ConvolutionNeuralNetworksI.pdf)  | Ondřej
 | 21.4.2026 | Neural Networks V   | Ondřej
 | 28.4.2026 | Neural Networks VI  | Ondřej
 | 5.5.2026  | Neural Networks VII | Ondřej 
@@ -40,7 +40,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | ~~24.3.2026~~ 31.3.2026 | [Decision Trees III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/02_decision_trees/xgboost.ipynb)               | Karel
 | 31.3.2026 | [Hyperparameters Optimization](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/03_hyperparameter_optimization/hyperparameters_optimization.ipynb)     | Karel
 | 7.4.2026  | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_introduction.ipynb)                | Ondřej
-| 14.4.2026 | Neural Networks II               | Ondřej
+| 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_convolutions.ipynb)               | Ondřej
 | 21.4.2026 | Neural Networks III              | Ondřej
 | 28.4.2026 | Neural Networks IV               | Ondřej 
 | 5.5.2026  | Neural Networks V                | Ondřej
