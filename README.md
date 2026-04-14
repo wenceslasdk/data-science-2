@@ -40,7 +40,7 @@ This repository contains materials to the Data Science 2 - NMFP436 course.
 | ~~24.3.2026~~ 31.3.2026 | [Decision Trees III](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/02_decision_trees/xgboost.ipynb)               | Karel
 | 31.3.2026 | [Hyperparameters Optimization](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/03_hyperparameter_optimization/hyperparameters_optimization.ipynb)     | Karel
 | 7.4.2026  | [Neural Networks I](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_introduction.ipynb)                | Ondřej
-| 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_convolutions.ipynb)               | Ondřej
+| 14.4.2026 | [Neural Networks II](https://github.com/wenceslasdk/data-science-2/blob/main/Practicals/04_neural_networks/NN_mnist.ipynb)               | Ondřej
 | 21.4.2026 | Neural Networks III              | Ondřej
 | 28.4.2026 | Neural Networks IV               | Ondřej 
 | 5.5.2026  | Neural Networks V                | Ondřej
