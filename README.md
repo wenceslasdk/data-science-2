@@ -10,6 +10,7 @@ Contact:
 **Changes:**
 - Practicals from 31. 3. are swapped with the lecture from 24. 3. — this means two lectures one week, followed by two practicals the next week.
 - Section on LLM during exams usage added (see below)
+- on 5.5., we continued with the lecture instead of practicals, content from [Neural Networks VII](https://github.com/wenceslasdk/data-science-2/blob/main/Lectures/DataScience2_LargeLanguageModels.pdf) will be part of the exam only up to the Training section (excluded)
 
 This repository contains materials to the Data Science 2 - NMFP436 course.
 ## Lectures plan
