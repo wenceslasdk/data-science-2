@@ -6,7 +6,7 @@ Karel:
 Ondra:
 
 - Pripravit cviceni na GAN
-- Ukazat hyperparam opti pro NN
+- HW2 specifikovat že je to fine-tuning classification modelu; submission ma obsahovat model
 - https://masters.donntu.ru/2012/fknt/umiarov/library/lecun.pdf
 
 HW 1
